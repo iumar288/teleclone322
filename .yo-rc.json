@@ -1,0 +1,26 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "baseName": "teleclone322",
+    "buildTool": "maven",
+    "cacheProvider": "hazelcast",
+    "clientFramework": "react",
+    "clientPackageManager": "npm",
+    "clientTheme": null,
+    "creationTimestamp": 1732380907022,
+    "databaseType": "sql",
+    "devServerPort": 9060,
+    "enableHibernateCache": false,
+    "enableTranslation": false,
+    "entities": [],
+    "jhipsterVersion": "8.7.3",
+    "jwtSecretKey": "NzBhNGRlNzQ1NDI2MzgxMGQ5OGJmN2JlZTJiZDBmMGZmNzMwYzRlZWQ1MmE0MGViNDJiOTdkNWZhMmEzZWNlZTc5ZDA4ODBlNTQ3MTU3ZmQ0ZTVhN2QxN2I0YzIxNjA1MmViNjU1NjY0NDBkMjgxOTU0MjljOTk4MzBiYzYxMGY=",
+    "microfrontend": false,
+    "nativeLanguage": "en",
+    "otherLanguages": null,
+    "reactive": false,
+    "serviceDiscoveryType": null,
+    "testFrameworks": ["cypress"],
+    "websocket": null
+  }
+}
